@@ -11,8 +11,8 @@ I am learning programming to be able to find my first job as a java developer or
 
 How to reach me:
 
-(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/marek-polek/
-(https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) : marek.pawel.polek@gmail.com
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) : https://www.linkedin.com/in/marek-polek/
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) : marek.pawel.polek@gmail.com
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### My Skills & Tools 
