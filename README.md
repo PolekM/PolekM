@@ -3,7 +3,7 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,sql,git,intelij,maven,json,JUnit,hibernate,html,js,angular,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,maven,ts,hibernate,html,js,angular,docker)](https://skillicons.dev)
 <!--
 **PolekM/PolekM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
