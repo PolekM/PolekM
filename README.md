@@ -16,4 +16,4 @@ _My current job is to provide IT support to companies and users. At work, my res
 
 ## My Skills & Tools
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,maven,idea,postman,vscode,ts,hibernate,html,js,angular,docker)]
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,git,maven,idea,postman,vscode,ts,hibernate,html,js,angular,docker)
