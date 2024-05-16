@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+
+
+[![My Skills](https://skillicons.dev/icons?i=Java,Spring,SQL,GIT,Intelij,Maven,JSON,JUnit,hibernate,html,js,angular,docker)](https://skillicons.dev)
 <!--
 **PolekM/PolekM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
