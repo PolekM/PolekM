@@ -1,6 +1,5 @@
 # Hi, I'm Marek 👋
 
----
 
 ## I'am IT Systems Administrator at JB IT
 
@@ -8,14 +7,12 @@ _My current job is to provide IT support to companies and users. At work, my res
 
 *I am learning programming to be able to find my first job as a Java Developer or FullStack Developer. I am currently in the process of developing a cinema project [CinemaApp](https://github.com/PolekM/CinemaApp).*
 
----
 
 ## Let's be in touch:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marek-polek)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marek.pawel.polek@gmail.com)
 
----
 
 ## My Skills & Tools
 
